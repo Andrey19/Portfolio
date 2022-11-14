@@ -1,6 +1,7 @@
 # Портфолио 
-![Alt text](../../../../../c:/%D0%A4%D0%BE%D1%82%D0%BE/Andrey.jpg) 
+![Andrey](https://user-images.githubusercontent.com/4982808/201721852-a3fa91dc-f376-4004-a642-3fcd0638524b.jpg)
 # Разборов Андрей Дмитриевич 
+
 
 Закончил ОмГТУ
 
